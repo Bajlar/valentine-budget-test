@@ -1,5 +1,5 @@
 ### Site link: 
-https://valentine-budget-text412142.netlify.app
+https://valentine-budget-text.netlify.app
 
 ### Project Title: Valentine Budget Text
 
