@@ -1,0 +1,11 @@
+.logo {
+  width: 100px;
+  height: 70px;
+}
+
+.buy-btn {
+  padding: 10px 10px;
+  border: none;
+  background-color: rgb(133, 15, 125);
+  border-radius: 10px;
+}
